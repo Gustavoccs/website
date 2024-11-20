@@ -79,6 +79,4 @@ Now, run your app as a web app:
 flet run --web counter.py
 ```
 
-A new browser window or tab will be opened:
-
 <img src="/img/docs/getting-started/flet-counter-safari.png" className="screenshot-50" />
